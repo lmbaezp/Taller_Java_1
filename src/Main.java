@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        // Instaciar scanner
+        // Instaciando scanner
         Scanner scanner = new Scanner(System.in);
 
         //ACTIVIDAD 1
