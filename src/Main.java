@@ -21,7 +21,7 @@ public class Main {
         // Leer el dato
         int nota3 = scanner.nextInt();
         //Calculo promedio
-        double promedio = (nota1 + nota2 + nota3) / 3;
+        double promedio = (nota1 + nota2 + nota3) / 3.0;
         // Mostrar resultado
         System.out.println("El promedio del estudiante es: " + promedio);
 
